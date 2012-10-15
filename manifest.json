@@ -1,6 +1,7 @@
 {
     "name" : "jQuery Everywhere",
     "version" : "0.1",
+    "manifest_version": 2,
     "description" : "Adds jQuery to the console. Uses ajax.googleapis.com, jQuery Version 1.6.1",
     "browser_action" : {
         "default_title" : "Loads jQuery in the console",
